@@ -1,2 +1,2 @@
 # daebang-construction
-https://JODAHANI.githu/daebang-construction/
+https://JODAHANI.github.io/daebang-construction/
